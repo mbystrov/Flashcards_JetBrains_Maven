@@ -1,0 +1,5 @@
+Russia=Moscow=d
+Turkey=Istanbul=0
+Madagascar=Antananarivo=0
+UK=London=0
+Ukraine=Kiev=0
